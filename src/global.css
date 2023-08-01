@@ -11,6 +11,11 @@
     margin: 0 auto;
 }
 
+.userInput{
+    width: 180px;
+    
+}
+
 :root {
     --corPrincipal: #EAB543;
     --corSecundaria: #2C3A47;
